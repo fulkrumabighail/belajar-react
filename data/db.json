@@ -1,0 +1,45 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "publisher": "J. B. Lippincott & Co.",
+        "publishDate": "July 11, 1960",
+        "editor": "Tay Hohoff"
+      },
+      {
+        "id": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "publisher": "Secker & Warburg",
+        "publishDate": "June 8, 1949",
+        "editor": "Fredric Warburg"
+      },
+      {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "publisher": "T. Egerton, White's Circulating Library",
+        "publishDate": "January 28, 1813",
+        "editor": "Thomas Egerton"
+      },
+      {
+        "id": 4,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "publisher": "Charles Scribner's Sons",
+        "publishDate": "April 10, 1925",
+        "editor": "Maxwell Perkins"
+      },
+      {
+        "id": 5,
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "publisher": "Hogarth Press",
+        "publishDate": "May 5, 1927",
+        "editor": "Leonard Woolf"
+      }
+    ]
+  }
+  
